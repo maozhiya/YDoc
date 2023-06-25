@@ -44,13 +44,6 @@
             </distributionManagement>
         </profile>
     </profiles>
-    <developers>
-        <developer>
-            <name>NoBugBoY</name>
-            <email>daydaynotbug@163.com</email>
-            <url>https://github.com/NoBugBoy/</url>
-        </developer>
-    </developers>
     <properties>
         <swagger.version>2.9.2</swagger.version>
         <swagger-bootstrap-ui.version>1.9.6</swagger-bootstrap-ui.version>
